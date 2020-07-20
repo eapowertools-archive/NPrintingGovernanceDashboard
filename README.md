@@ -13,5 +13,6 @@ High level Requirements:          - A Postgresql ODBC driver and credentials to 
                                   
 Detailed steps and requirements:  See https://github.com/JonnyPooleQlik/NPrintingGovernanceDashboard/blob/master/NPrinting%20Governance%20Dashboard%20installation%20instructions.pdf   
 
-NPrinting Governance Dashboard QVF:  <attached>  
+NPrinting Governance Dashboard QVF:  https://github.com/JonnyPooleQlik/NPrintingGovernanceDashboard/blob/master/NPrinting%20Governance%20Dashboard.qvf  
+
   
