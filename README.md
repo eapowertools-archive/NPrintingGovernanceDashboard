@@ -6,6 +6,6 @@ What is it?                       A Qlik Sense application that loads data from 
 Is it supported by Qlik?          No. Post issues into github. 
 High level Requirements:          - A Postgresql ODBC driver and credentials to form the connection from Qlik Sense
                                   - Configure NPrinting Repository to accept connections
-Detailed steps and requirements:  See <attached> PDF instruction setup file
+Detailed steps and requirements:  See https://github.com/JonnyPooleQlik/NPrintingGovernanceDashboard/blob/master/NPrinting%20Governance%20Dashboard%20installation%20instructions.pdf PDF instruction setup file
 
 NPrinting Governance Dashboard QVF:  <attached>
